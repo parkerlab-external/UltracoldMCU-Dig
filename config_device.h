@@ -1,0 +1,8 @@
+//#define REPEATER_MODE
+#define REGULAR_MODE
+
+#define FOLLOW_MODE
+//#define LEADER_MODE
+
+#define UART_ADDRESS 0x11
+//#define USE_INTERNAL_CLOCK
